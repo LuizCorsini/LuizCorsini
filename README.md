@@ -4,6 +4,5 @@
 - 🌱 Estou aprendendo lógica de programação com JavaScript.
 - 👯 Procuro colaborar com pequenos projetos Web.
 
-# Atualmente aprendendo:
-<i class="devicon-javascript-plain colored"></i>
-          
+## Atualmente aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
