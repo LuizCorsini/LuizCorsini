@@ -5,4 +5,4 @@
 - 👯 Procuro colaborar com pequenos projetos Web.
 
 ## Atualmente aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
