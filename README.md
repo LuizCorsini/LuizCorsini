@@ -1,8 +1,8 @@
 ## Olá, me chamo Luiz Fernando👋! Bem vindo(a) ao meu perfil!
 
 - 🔭 Trabalho atualmente como Analista de TI.
-- 🌱 Estou aprendendo lógica de programação com JavaScript.
-- 👯 Procuro colaborar com projetos de desenvolvimento Web.
+- 🌱 Evoluindo em Framoworks JavaScript( React.js, Next.js, Vue.js)
+- 👯 Sempre aberto a colaborações e novos desafios. 
 
 ### Evoluindo em:
 <div>
