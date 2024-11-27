@@ -1,13 +1,53 @@
-## Olá, me chamo Luiz Fernando👋! Bem vindo(a) ao meu perfil!
+<h1 align="center">Olá, eu sou o Edson Morais! 👋</h1>
 
-- 🔭 Trabalho atualmente como Analista de TI.
-- 🌱 Evoluindo em Framoworks JavaScript( React.js, Next.js, Vue.js)
-- 👯 Sempre aberto a colaborações e novos desafios. 
+<p align="center">
+  <a href="https://github.com/edsonmorais"><img src="https://img.shields.io/github/followers/edsonmorais?label=Seguidores&style=social"></a>
+  <a href="https://github.com/edsonmorais"><img src="https://visitor-badge.glitch.me/badge?page_id=edsonmorais.profile"></a>
+</p>
 
-### Evoluindo em:
-<div>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img width="35" src="https://th.bing.com/th/id/R.2bee11a830bacc5ae9006df56b20c33a?rik=nXUBy4boCTrW8w&pid=ImgRaw&r=0" /> <img width="35" src="https://www.ictdemy.com/images/5728/nodejs_logo.png" />
-           
-</div>
+---
 
-          
+### Sobre Mim 🚀
+Sou um desenvolvedor apaixonado por tecnologia, automação e soluções criativas. Atualmente, trabalho com **[principais tecnologias que você usa, ex.: Angular, Node.js, Supabase, etc.]** e estou sempre explorando novas ferramentas e frameworks.
+
+---
+
+### 🚀 Meus Projetos Recentes
+- [💡 Projeto 1](https://github.com/edsonmorais/projeto1): Breve descrição sobre o projeto.
+- [📊 Projeto 2](https://github.com/edsonmorais/projeto2): Breve descrição sobre o projeto.
+- [🌟 Projeto 3](https://github.com/edsonmorais/projeto3): Breve descrição sobre o projeto.
+
+---
+
+### 💻 Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonmorais&show_icons=true&theme=radical" alt="Estatísticas de Edson">
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://edsonmorais.dev">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</p>
+
