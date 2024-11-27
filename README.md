@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Edson Morais! 👋</h1>
+<h1 align="center">Olá, eu sou o Luiz Corsini! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/edsonmorais"><img src="https://img.shields.io/github/followers/edsonmorais?label=Seguidores&style=social"></a>
@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por tecnologia, automação e soluções criativ
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsonmorais&show_icons=true&theme=radical" alt="Estatísticas de Edson">
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonmorais&show_icons=true&theme=radical" alt="Estatísticas de Luiz">
 </p>
 
 ---
@@ -43,10 +43,10 @@ Sou um desenvolvedor apaixonado por tecnologia, automação e soluções criativ
   <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:luizcorsini@bindvalue.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://edsonmorais.dev">
+  <a href="https://luizcorsini.dev">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
